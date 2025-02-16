@@ -8,7 +8,7 @@ function App() {
     <div className="App">
       <img src={logo} alt="Logo" className="App-logo" /> {/* Add the logo */}
       <div classname="heading">
-        <h1><b>Company Information Form</b></h1>
+        <h1><b>Social Media Form</b></h1>
         </div>
       <Form />
     </div>
